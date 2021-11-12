@@ -1,3 +1,3 @@
-install.packages('tidyr')
-install.packages('plotly')
-install.packages('DT')
+install.packages("tidyr")
+install.packages("plotly")
+install.packages("DT")
